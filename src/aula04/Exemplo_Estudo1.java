@@ -1,4 +1,4 @@
-package Cmetodos;
+package aula04;
 //Recebendo e exibindo o input pelo JOptionPane
 import javax.swing.*;
 

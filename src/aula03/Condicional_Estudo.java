@@ -1,4 +1,4 @@
-package BControle;
+package aula03;
 //ESTUDO
 import java.util.Scanner;
 
